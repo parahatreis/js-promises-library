@@ -1,0 +1,12 @@
+{
+  "name": "js-promises-library",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest --watchAll --noStackTrace"
+  },
+  "dependencies": {
+    "jest": "^28.1.1"
+  }
+}
